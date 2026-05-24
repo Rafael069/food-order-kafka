@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodOrder.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db5b787a0dc42d4340b6e71f19e81495ba9605fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+623f1be92650c6aaa574c33a82b48688bea5b3d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodOrder.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodOrder.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
