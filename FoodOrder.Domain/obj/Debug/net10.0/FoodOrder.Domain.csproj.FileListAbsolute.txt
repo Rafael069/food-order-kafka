@@ -1,0 +1,12 @@
+D:\FoodOrder\FoodOrder.Domain\bin\Debug\net10.0\FoodOrder.Domain.deps.json
+D:\FoodOrder\FoodOrder.Domain\bin\Debug\net10.0\FoodOrder.Domain.dll
+D:\FoodOrder\FoodOrder.Domain\bin\Debug\net10.0\FoodOrder.Domain.pdb
+D:\FoodOrder\FoodOrder.Domain\obj\Debug\net10.0\FoodOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodOrder\FoodOrder.Domain\obj\Debug\net10.0\FoodOrder.Domain.AssemblyInfoInputs.cache
+D:\FoodOrder\FoodOrder.Domain\obj\Debug\net10.0\FoodOrder.Domain.AssemblyInfo.cs
+D:\FoodOrder\FoodOrder.Domain\obj\Debug\net10.0\FoodOrder.Domain.csproj.CoreCompileInputs.cache
+D:\FoodOrder\FoodOrder.Domain\obj\Debug\net10.0\FoodOrder.Domain.sourcelink.json
+D:\FoodOrder\FoodOrder.Domain\obj\Debug\net10.0\FoodOrder.Domain.dll
+D:\FoodOrder\FoodOrder.Domain\obj\Debug\net10.0\refint\FoodOrder.Domain.dll
+D:\FoodOrder\FoodOrder.Domain\obj\Debug\net10.0\FoodOrder.Domain.pdb
+D:\FoodOrder\FoodOrder.Domain\obj\Debug\net10.0\ref\FoodOrder.Domain.dll

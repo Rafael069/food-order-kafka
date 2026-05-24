@@ -1,0 +1,16 @@
+D:\FoodOrder\FoodOrder.Infrastructure\bin\Debug\net10.0\FoodOrder.Infrastructure.deps.json
+D:\FoodOrder\FoodOrder.Infrastructure\bin\Debug\net10.0\FoodOrder.Infrastructure.dll
+D:\FoodOrder\FoodOrder.Infrastructure\bin\Debug\net10.0\FoodOrder.Infrastructure.pdb
+D:\FoodOrder\FoodOrder.Infrastructure\bin\Debug\net10.0\FoodOrder.Domain.dll
+D:\FoodOrder\FoodOrder.Infrastructure\bin\Debug\net10.0\FoodOrder.Domain.pdb
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\FoodOrder.Infrastructure.csproj.AssemblyReference.cache
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\FoodOrder.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\FoodOrder.Infrastructure.AssemblyInfoInputs.cache
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\FoodOrder.Infrastructure.AssemblyInfo.cs
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\FoodOrder.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\FoodOrder.Infrastructure.sourcelink.json
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\FoodOrde.72A37475.Up2Date
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\FoodOrder.Infrastructure.dll
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\refint\FoodOrder.Infrastructure.dll
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\FoodOrder.Infrastructure.pdb
+D:\FoodOrder\FoodOrder.Infrastructure\obj\Debug\net10.0\ref\FoodOrder.Infrastructure.dll
