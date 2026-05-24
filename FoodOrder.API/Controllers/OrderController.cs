@@ -52,16 +52,6 @@ namespace FoodOrder.API.Controllers
             return NoContent();
         }
 
-        //[HttpPost("{id}/cancel")]
-        //public IActionResult Cancel(Guid id)
-        //{
-        //    var success = _service.CancelOrder(id);
-
-        //    if (success)
-        //        return NotFound();
-
-        //    return NoContent();
-        //}
 
         public class CreateOrderRequest
         {

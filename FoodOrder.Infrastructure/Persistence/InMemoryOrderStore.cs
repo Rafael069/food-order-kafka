@@ -1,14 +1,15 @@
-﻿using System;
+﻿using FoodOrder.Domain.Entities;
+using FoodOrder.Domain.Enums;
+using System;
 using System.Collections.Generic;
 using System.Text;
-using FoodOrder.Domain.Entities;
 
 
 // Banco FAKE
 
 namespace FoodOrder.Infrastructure.Persistence
 {
-    
+
 
     public class InMemoryOrderStore
     {
@@ -21,12 +22,22 @@ namespace FoodOrder.Infrastructure.Persistence
 
         public Order? GetById(Guid id)
         {
-            return _orders.TryGetValue(id, out var order) ? order : null;
+            if (_orders.TryGetValue(id, out var order))
+            {
+                if (order.Status == OrderStatus.Cancelled)
+                    return null;
+
+                return order;
+            }
+
+            return null;
         }
 
         public List<Order> GetAll()
         {
-            return _orders.Values.ToList();
+            return _orders.Values
+                .Where(x => x.Status != OrderStatus.Cancelled)
+                .ToList();
         }
     }
 
